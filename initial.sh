@@ -80,9 +80,11 @@ pacman_packages=(
     lazydocker
     lazygit
     ripgrep
+    stow
     tealdeer
     vim
     gufw
+    gwenview
     docker
     docker-compose
     zsh
